@@ -7,7 +7,7 @@ this script to enter bookmarks data in a simple format.
 ## Dependencies
 * bash
 * python3
-* pdftk
+* pdftk (Ubuntu 24.04: sudo apt install pdftk-java)
 * dirname
 * basename
 * GNU sed (OSX users take note, you may have BSD sed. Install `gsed` instead)
